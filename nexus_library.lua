@@ -1,6 +1,3 @@
--- Nexus Library v2.0
--- Sistema modular de interface para Roblox
-
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local UserInputService = game:GetService("UserInputService")
